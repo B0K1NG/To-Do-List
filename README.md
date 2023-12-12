@@ -19,6 +19,11 @@ Welcome to the Daily Task Manager Java program! This project showcases a simple 
 3. Real-time timestamps are displayed to simulate the progression of the day.
 4. The program checks task completion at the end of the day, providing feedback based on user input.
 
+## Tech Stack 💻
+
+- JAVA
+- Visual Studio Code
+
 ## Getting Started 🏁
 
 1. **Clone the Repository:**
